@@ -1,0 +1,1 @@
+In Health Tracking System is the one of the key advantages is the ability to monitor health data in real-time.In our health tracking app, we will assess the user's fitness level, provide health observations, and send checkup reminders for each user.
